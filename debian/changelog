@@ -1,0 +1,23 @@
+network-manager-integration-plugins (0.0.4~1) unstable; urgency=medium
+
+  * add network-manager-sstp
+
+ -- Deepin Packages Builder <zs@deepin.com>  Tue, 02 Apr 2019 10:38:59 +0800
+
+network-manager-integration-plugins (0.0.3~1) unstable; urgency=medium
+
+  * add *-gnome　depends
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 11 Oct 2016 10:59:54 +0800
+
+network-manager-integration-plugins (0.0.2~1) unstable; urgency=medium
+
+  * add mark file. 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Fri, 27 Nov 2015 13:52:57 +0800
+
+network-manager-integration-plugins (0.0.1~1) unstable; urgency=medium
+
+  * initial release.
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Fri, 30 Oct 2015 11:09:41 +0800
